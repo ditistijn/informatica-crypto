@@ -1,0 +1,22 @@
+{
+  "name": "informatica-crypto",
+  "version": "1.0.0",
+  "description": "informatica project over cryptocurrency en blockchain",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditistijn/informatica-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ditistijn/informatica-crypto/issues"
+  },
+  "homepage": "https://github.com/ditistijn/informatica-crypto#readme"
+}

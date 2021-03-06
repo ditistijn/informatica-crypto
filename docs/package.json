@@ -1,0 +1,19 @@
+{
+  "name": "informatica-crypto",
+  "version": "0.0.1",
+  "description": "Informatica project over cryptocurrency en blockchain",
+  "main": "index.js",
+  "authors": {
+    "name": "Tijn Coertjens",
+    "email": "tijncoertjens@gmail.com"
+  },
+  "repository": "/informatica-crypto",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
